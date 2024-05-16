@@ -1,0 +1,1 @@
+# Deteksi-Potongan-Tubuh-Korban-Bencana-Alam-Faster-R-CNN-Inception-ResNet-V2-640x640
